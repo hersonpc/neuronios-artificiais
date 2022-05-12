@@ -3,6 +3,9 @@ import random
 ###
 # Ref.: https://gist.github.com/marcoscastro/491bd5837815fe11181dce6c50f457ee
 #       https://waldirbertazzijr.com/index.php/2019/05/15/redes-neurais-3-implementacao-de-um-perceptron-em-python/
+#       https://towardsdatascience.com/perceptron-algorithm-in-python-f3ac89d2e537
+#       https://pyimagesearch.com/2021/05/06/implementing-the-perceptron-neural-network-with-python/
+#       https://pypi.org/project/perceptron/
 ###
 
 
